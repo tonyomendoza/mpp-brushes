@@ -1,2 +1,2 @@
 # mpp-brushes
-Custom brush set for Medibang Paint Pro 
+Free custom brush set for Medibang Paint Pro
